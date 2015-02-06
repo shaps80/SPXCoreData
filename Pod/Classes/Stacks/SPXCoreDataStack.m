@@ -7,6 +7,7 @@
 //
 
 #import "SPXCoreDataStack.h"
+#import "SPXLoggingDefines.h"
 
 const NSDictionary *entityMappings;
 

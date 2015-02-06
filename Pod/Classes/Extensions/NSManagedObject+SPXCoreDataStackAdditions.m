@@ -25,6 +25,7 @@
 
 #import "NSManagedObject+SPXCoreDataStackAdditions.h"
 #import "SPXCoreDataStack.h"
+#import "SPXAssertionDefines.h"
 
 extern NSDictionary *entityMappings;
 
