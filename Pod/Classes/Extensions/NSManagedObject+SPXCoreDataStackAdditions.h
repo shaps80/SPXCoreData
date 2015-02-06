@@ -24,9 +24,8 @@
  */
 
 #import <CoreData/CoreData.h>
-#import "SPXCoreDataObjectQuery.h"
 
-@interface NSManagedObject (SPXCoreDataStackAdditions) <SPXCoreDataObjectQuery>
+@interface NSManagedObject (SPXCoreDataStackAdditions)
 
 // Returns the model's entity name for this managed object
 + (NSString *)entityName;
