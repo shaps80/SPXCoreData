@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/Stacks/SPXCoreDataStack.h

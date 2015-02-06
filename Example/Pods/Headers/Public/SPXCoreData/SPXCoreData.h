@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/SPXCoreData.h

@@ -1,0 +1,1 @@
+../../../../../Pod/Classes/Extensions/NSManagedObject+SPXCoreDataStackAdditions.h
