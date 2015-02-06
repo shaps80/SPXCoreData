@@ -25,7 +25,6 @@
 
 #import "NSManagedObject+SPXCoreDataStackAdditions.h"
 #import "SPXCoreDataStack.h"
-#import "KZPropertyMapperCommon.h"
 
 extern NSDictionary *entityMappings;
 
